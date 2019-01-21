@@ -6,3 +6,7 @@ https://stackoverflow.com/questions/20106712/what-are-the-differences-between-gi
 ## What is git tag, How to create tags & How to checkout git remote tag(s)
 
 https://stackoverflow.com/questions/35979642/what-is-git-tag-how-to-create-tags-how-to-checkout-git-remote-tags
+
+## Delete branches
+
+https://backlog.com/git-tutorial/branching/delete-branch/
