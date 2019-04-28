@@ -19,3 +19,8 @@ https://howtodoinjava.com/java/multi-threading/when-to-use-countdownlatch-java-c
 What Every Computer Scientist Should Know About Floating-Point Arithmetic
 
 https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+
+
+An introduction to immutable infrastructure
+
+https://www.oreilly.com/ideas/an-introduction-to-immutable-infrastructure
